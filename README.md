@@ -155,7 +155,7 @@ Topic 21:
 ![Screenshot 2024-02-09 at 5 41 32 PM](https://github.com/KaySRubio/dear-abby-topic-modeling/assets/78124907/2a2c0ce6-318f-4807-8dc9-1e29072e80fe)
 
 ## Next steps:
-Some cool next directions would be to see if topic frequencies have changed over time from 1985-2017.  Also, there's always more data cleaning to do.  While I excluded some column-related phrasing and words, I discovered that some logistical info was still left in, so more rigorous data cleaning could.  I'd also like to try Latent Semantic Analysis (LSA) and other topic modeling algorithms. 
+Future directions include modeling how topics may have changed over time from 1985-2017 and identifying trends.  Also, there's always more data cleaning to do.  While I excluded some column-related phrasing and words in the first pass, I discovered that some logistical info was still left in and affected some of the topics, so more rigorous data cleaning could improve results.  I'd also like to explore Latent Semantic Analysis (LSA) and other topic modeling algorithms. 
 
 ## Data Source: 
 American Anxieties: Dear Abby's Questions
